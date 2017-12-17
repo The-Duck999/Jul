@@ -1,0 +1,12 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "deep_ocean": "2017-12-08 21:43:28 -0700",
+      "beaches": "2017-12-08 21:43:26 -0700",
+      "taiga": "2017-12-08 21:43:17 -0700",
+      "ocean": "2017-12-08 21:43:32 -0700",
+      "desert": "2017-12-08 21:43:46 -0700"
+    },
+    "done": false
+  }
+}
